@@ -1,7 +1,9 @@
 # linux_config
 
-* ssh -i <key> grader@18.130.6.41 -p 2200
+* ssh -i key grader@18.130.6.41 -p 2200
+
 * application url: ec2-18-130-6-41.eu-west-2.compute.amazonaws.com
+
 * installed software 
     * pip3, postgres, flask
 * External resources
