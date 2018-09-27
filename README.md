@@ -22,7 +22,7 @@ user: grader
 * Disable root login PermitRootLogin no
 * change ssh port to 2200 from 22 
 	* edit file /etc/ssh/sshd_config to set Port 2200
-## UFW
+## UFW Setup
 * sudo ufw allow 2200/tcp
 * sudo ufw allow www
 * sudo ufw allow ntp
